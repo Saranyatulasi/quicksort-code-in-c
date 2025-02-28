@@ -1,1 +1,1 @@
-# quicksort-code-in-c
+# mergesort-code-in-c
